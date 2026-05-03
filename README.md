@@ -46,3 +46,10 @@
 ### Git学习心得
 
 照着视频就够用了
+
+### 进一步学习
+
+>- git merge 分支合并
+>- git branch 分支管理
+>- git reset 回滚
+>- git rebase 重基
